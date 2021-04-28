@@ -1,0 +1,4 @@
+(
+    public_key: "server_public_key_example",
+    public_ip: "server_public_ip_example",
+)
